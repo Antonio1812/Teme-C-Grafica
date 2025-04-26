@@ -1,0 +1,12 @@
+﻿  TEST_ADANCIME.c
+C:\Facultate\Proiecte VS\Project1\Project1\TEST_ADANCIME.c(34,15): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Facultate\Proiecte VS\Project1\Project1\TEST_ADANCIME.c(34,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Facultate\Proiecte VS\Project1\Project1\TEST_ADANCIME.c(35,15): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Facultate\Proiecte VS\Project1\Project1\TEST_ADANCIME.c(35,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Facultate\Proiecte VS\Project1\Project1\TEST_ADANCIME.c(36,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Facultate\Proiecte VS\Project1\Project1\TEST_ADANCIME.c(41,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Facultate\Proiecte VS\Project1\Project1\TEST_ADANCIME.c(41,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Facultate\Proiecte VS\Project1\Project1\TEST_ADANCIME.c(42,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Facultate\Proiecte VS\Project1\Project1\TEST_ADANCIME.c(42,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Facultate\Proiecte VS\Project1\Project1\TEST_ADANCIME.c(43,15): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+  Project1.vcxproj -> C:\Facultate\Proiecte VS\Project1\Debug\Project1.exe
